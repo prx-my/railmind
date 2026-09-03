@@ -3,6 +3,8 @@
 ### **Intelligent Train Conflict Resolution System (Decision-Support Prototype)**
 *Version 2.0 — Search-Based Planning Architecture*
 
+**Project by prxmy**
+
 ---
 
 [![Python Version](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/)
@@ -471,7 +473,8 @@ RailMind is a decision-support prototype. Transitioning to a production-grade di
 *   **Author:** Prakhar Gupta
 *   **Affiliation:** Manipal University Jaipur, B.Tech CSE (Batch 2025–2029)
 *   **GitHub:** [@prakharrdev](https://github.com/prakharrdev)
-*   **Last Updated:** 20 June 2026
+*   **Project by:** prxmy
+*   **Last Updated:** 3 September 2026
 
 ---
 
